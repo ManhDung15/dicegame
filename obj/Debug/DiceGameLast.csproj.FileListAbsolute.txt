@@ -1,0 +1,78 @@
+E:\PSB\UON\New Course\DiceGameLast\bin\Debug\DiceGameLast.exe.config
+E:\PSB\UON\New Course\DiceGameLast\bin\Debug\DiceGameLast.exe
+E:\PSB\UON\New Course\DiceGameLast\bin\Debug\DiceGameLast.pdb
+E:\PSB\UON\New Course\DiceGameLast\obj\Debug\DiceGameLast.csprojAssemblyReference.cache
+E:\PSB\UON\New Course\DiceGameLast\obj\Debug\DiceGameLast.gameDice.resources
+E:\PSB\UON\New Course\DiceGameLast\obj\Debug\DiceGameLast.Properties.Resources.resources
+E:\PSB\UON\New Course\DiceGameLast\obj\Debug\DiceGameLast.csproj.GenerateResource.cache
+E:\PSB\UON\New Course\DiceGameLast\obj\Debug\DiceGameLast.exe
+E:\PSB\UON\New Course\DiceGameLast\obj\Debug\DiceGameLast.pdb
+E:\PSB\UON\New Course\DiceGameLast\obj\Debug\DiceGameLast.MainMenu.resources
+E:\PSB\UON\New Course\DiceGameLast\bin\Debug\1Player.resx
+E:\PSB\UON\New Course\DiceGameLast\bin\Debug\1Player.cs
+E:\PSB\UON\New Course\DiceGameLast\obj\Debug\DiceGameLast.gameDice2.resources
+E:\PSB\UON\New Course\DiceGameLast\obj\Debug\DiceGameLast.gameDice3.resources
+E:\UONdoc\INFT2012 Applicationn Programminh\DiceGameLast3\DiceGameLast\bin\Debug\1Player.resx
+E:\UONdoc\INFT2012 Applicationn Programminh\DiceGameLast3\DiceGameLast\bin\Debug\1Player.cs
+E:\UONdoc\INFT2012 Applicationn Programminh\DiceGameLast3\DiceGameLast\bin\Debug\DiceGameLast.exe.config
+E:\UONdoc\INFT2012 Applicationn Programminh\DiceGameLast3\DiceGameLast\bin\Debug\DiceGameLast.exe
+E:\UONdoc\INFT2012 Applicationn Programminh\DiceGameLast3\DiceGameLast\bin\Debug\DiceGameLast.pdb
+E:\UONdoc\INFT2012 Applicationn Programminh\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.csprojAssemblyReference.cache
+E:\UONdoc\INFT2012 Applicationn Programminh\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.gameDice.resources
+E:\UONdoc\INFT2012 Applicationn Programminh\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.gameDice2.resources
+E:\UONdoc\INFT2012 Applicationn Programminh\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.gameDice3.resources
+E:\UONdoc\INFT2012 Applicationn Programminh\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.MainMenu.resources
+E:\UONdoc\INFT2012 Applicationn Programminh\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.Properties.Resources.resources
+E:\UONdoc\INFT2012 Applicationn Programminh\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.csproj.GenerateResource.cache
+E:\UONdoc\INFT2012 Applicationn Programminh\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.csproj.CoreCompileInputs.cache
+E:\UONdoc\INFT2012 Applicationn Programminh\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.exe
+E:\UONdoc\INFT2012 Applicationn Programminh\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.pdb
+E:\UONdoc\INFT2012 Applicationn Programminh\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.EnterName.resources
+E:\PSB\UON\New Course\DiceGameLast3\DiceGameLast3\DiceGameLast\bin\Debug\1Player.resx
+E:\PSB\UON\New Course\DiceGameLast3\DiceGameLast3\DiceGameLast\bin\Debug\1Player.cs
+E:\PSB\UON\New Course\DiceGameLast3\DiceGameLast3\DiceGameLast\bin\Debug\DiceGameLast.exe.config
+E:\PSB\UON\New Course\DiceGameLast3\DiceGameLast3\DiceGameLast\bin\Debug\DiceGameLast.exe
+E:\PSB\UON\New Course\DiceGameLast3\DiceGameLast3\DiceGameLast\bin\Debug\DiceGameLast.pdb
+E:\PSB\UON\New Course\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.csprojAssemblyReference.cache
+E:\PSB\UON\New Course\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.gameDice.resources
+E:\PSB\UON\New Course\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.gameDice2.resources
+E:\PSB\UON\New Course\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.gameDice3.resources
+E:\PSB\UON\New Course\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.EnterName.resources
+E:\PSB\UON\New Course\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.MainMenu.resources
+E:\PSB\UON\New Course\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.Properties.Resources.resources
+E:\PSB\UON\New Course\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.csproj.GenerateResource.cache
+E:\PSB\UON\New Course\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.exe
+E:\PSB\UON\New Course\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.pdb
+E:\UONdoc\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\bin\Debug\1Player.resx
+E:\UONdoc\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\bin\Debug\1Player.cs
+E:\UONdoc\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\bin\Debug\DiceGameLast.exe.config
+E:\UONdoc\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\bin\Debug\DiceGameLast.exe
+E:\UONdoc\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\bin\Debug\DiceGameLast.pdb
+E:\UONdoc\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.csprojAssemblyReference.cache
+E:\UONdoc\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.gameDice.resources
+E:\UONdoc\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.gameDice2.resources
+E:\UONdoc\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.gameDice3.resources
+E:\UONdoc\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.EnterName.resources
+E:\UONdoc\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.MainMenu.resources
+E:\UONdoc\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.Properties.Resources.resources
+E:\UONdoc\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.csproj.GenerateResource.cache
+E:\UONdoc\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.csproj.CoreCompileInputs.cache
+E:\UONdoc\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.exe
+E:\UONdoc\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.pdb
+E:\UONdoc\Tri3 2020\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\bin\Debug\1Player.resx
+E:\UONdoc\Tri3 2020\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\bin\Debug\1Player.cs
+E:\UONdoc\Tri3 2020\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\bin\Debug\DiceGameLast.exe.config
+E:\UONdoc\Tri3 2020\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\bin\Debug\DiceGameLast.exe
+E:\UONdoc\Tri3 2020\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\bin\Debug\DiceGameLast.pdb
+E:\UONdoc\Tri3 2020\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.gameDice.resources
+E:\UONdoc\Tri3 2020\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.gameDice2.resources
+E:\UONdoc\Tri3 2020\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.gameDice3.resources
+E:\UONdoc\Tri3 2020\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.EnterName.resources
+E:\UONdoc\Tri3 2020\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.MainMenu.resources
+E:\UONdoc\Tri3 2020\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.Properties.Resources.resources
+E:\UONdoc\Tri3 2020\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.csproj.GenerateResource.cache
+E:\UONdoc\Tri3 2020\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.csproj.CoreCompileInputs.cache
+E:\UONdoc\Tri3 2020\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.exe
+E:\UONdoc\Tri3 2020\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.pdb
+E:\UONdoc\Tri3 2020\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.csproj.AssemblyReference.cache
+E:\UONdoc\Tri3 2020\INFT2012 Applicationn Programminh\Xong\DiceGameLast3\DiceGameLast3\DiceGameLast\obj\Debug\DiceGameLast.csproj.SuggestedBindingRedirects.cache
